@@ -278,7 +278,7 @@ body {
   -webkit-text-size-adjust: 100%; }
 
 header {
-  background: url(../img/farm.jpg) center center;
+  background: url("../assets/img/farm.jpg") center center;
   background-size: cover;
   padding-bottom: 50px; }
   header .logo {
@@ -407,7 +407,7 @@ h3 {
     border-radius: 50%;
     background-size: cover;
     background-position: center;
-    background: url(/assets/img/james.jpg);
+    background: url("../assets/img/james.jpg");
     order: 3; }
   .face-lockup [class^="icon-"] {
     height: 100px;
@@ -515,7 +515,7 @@ h3 {
     position: relative;
     padding-top: 16%;
     overflow: hidden;
-    background-image: url(/assets/img/work/proj-1/thumb.jpg);
+    background-image: url(assets/img/work/proj-1/thumb.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover; }
@@ -573,42 +573,42 @@ h3 {
       right: 0px;
       left: 0px; }
   .thumb-container #work1 {
-    background-image: url(/assets/img/work/proj-1/thumb.jpg);
+    background-image: url("../assets/img/work/proj-1/thumb.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover; }
   .thumb-container #work2 {
-    background-image: url(/assets/img/work/proj-2/thumb.jpg);
+    background-image: url("../assets/img/work/proj-2/thumb.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover; }
   .thumb-container #work3 {
-    background-image: url(/assets/img/work/proj-3/thumb.jpg);
+    background-image: url("../assets/img/work/proj-3/thumb.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover; }
   .thumb-container #work4 {
-    background-image: url(/assets/img/work/proj-4/thumb.jpg);
+    background-image: url("../assets/img/work/proj-4/thumb.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover; }
   .thumb-container #work5 {
-    background-image: url(/assets/img/work/proj-5/thumb.jpg);
+    background-image: url("../assets/img/work/proj-5/thumb.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover; }
   .thumb-container #work6 {
-    background-image: url(/assets/img/work/proj-6/thumb.jpg);
+    background-image: url("../assets/img/work/proj-6/thumb.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover; }
   .thumb-container #work7 {
-    background-image: url(/assets/img/work/proj-7/thumb.jpg);
+    background-image: url("../assets/img/work/proj-7/thumb.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover; }
   .thumb-container #work8 {
-    background-image: url(/assets/img/work/proj-8/thumb.jpg);
+    background-image: url("../assets/img/work/proj-8/thumb.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover; }
